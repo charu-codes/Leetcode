@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/charu-codes/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/charu-codes/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/charu-codes/Leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/charu-codes/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/charu-codes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0867-transpose-matrix](https://github.com/charu-codes/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/charu-codes/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/charu-codes/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/charu-codes/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/charu-codes/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/charu-codes/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/charu-codes/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
