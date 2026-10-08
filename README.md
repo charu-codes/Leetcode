@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/charu-codes/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/charu-codes/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/charu-codes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/charu-codes/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/charu-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -134,9 +135,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/charu-codes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/charu-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/charu-codes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/charu-codes/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
