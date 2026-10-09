@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/charu-codes/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/charu-codes/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/charu-codes/Leetcode/tree/master/0394-decode-string) |
 ## Queue
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/charu-codes/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/charu-codes/Leetcode/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/charu-codes/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/charu-codes/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/charu-codes/Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/charu-codes/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/charu-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
