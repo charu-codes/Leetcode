@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/charu-codes/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/charu-codes/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/charu-codes/Leetcode/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/charu-codes/Leetcode/tree/master/0912-sort-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/charu-codes/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/charu-codes/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
@@ -110,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/charu-codes/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/charu-codes/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/charu-codes/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/charu-codes/Leetcode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/charu-codes/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/charu-codes/Leetcode/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -160,4 +163,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/charu-codes/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/charu-codes/Leetcode/tree/master/0342-power-of-four) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/charu-codes/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/charu-codes/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/charu-codes/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/charu-codes/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/charu-codes/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
