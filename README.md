@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/charu-codes/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/charu-codes/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/charu-codes/Leetcode/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/charu-codes/Leetcode/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
