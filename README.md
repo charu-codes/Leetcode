@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/charu-codes/Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/charu-codes/Leetcode/tree/master/0912-sort-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/charu-codes/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/charu-codes/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/charu-codes/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/charu-codes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/charu-codes/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/charu-codes/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
