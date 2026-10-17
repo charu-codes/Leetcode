@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/charu-codes/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/charu-codes/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/charu-codes/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/charu-codes/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/charu-codes/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/charu-codes/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/charu-codes/Leetcode/tree/master/0169-majority-element) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/charu-codes/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/charu-codes/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/charu-codes/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/charu-codes/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/charu-codes/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/charu-codes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/charu-codes/Leetcode/tree/master/0189-rotate-array) |
