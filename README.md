@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/charu-codes/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/charu-codes/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/charu-codes/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/charu-codes/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/charu-codes/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/charu-codes/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/charu-codes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/charu-codes/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/charu-codes/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/charu-codes/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/charu-codes/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/charu-codes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/charu-codes/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/charu-codes/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/charu-codes/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/charu-codes/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/charu-codes/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/charu-codes/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/charu-codes/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/charu-codes/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/charu-codes/Leetcode/tree/master/0344-reverse-string) |
