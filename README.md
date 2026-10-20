@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/charu-codes/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/charu-codes/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/charu-codes/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/charu-codes/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/charu-codes/Leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/charu-codes/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/charu-codes/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/charu-codes/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/charu-codes/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/charu-codes/Leetcode/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/charu-codes/Leetcode/tree/master/0412-fizz-buzz) |
 ## Queue
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/charu-codes/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/charu-codes/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/charu-codes/Leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/charu-codes/Leetcode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
